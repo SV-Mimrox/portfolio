@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  background-color: #f0c38e;
+  font-family: "Raleway";
+  font-optical-sizing: auto;
+}
+
+.navBg {
+  background-color: #211e36;
+}
+
+.navBg a {
+  color: #f0c38e !important;
+}
+
+.hero-section{
+    background-color: #2d3250;
+    height:400px;
+    color: white;
+}
